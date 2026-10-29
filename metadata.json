@@ -1,0 +1,6 @@
+{
+  "name": "CodeReviewer",
+  "description": "Analisador inteligente de código para identificar vulnerabilidades, boas práticas e melhorias de performance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
